@@ -30,15 +30,4 @@
 
 ---
 
-## 📌 快速链接
-
-| 分类 | 搜索 |
-|------|------|
-| 全部公开仓库 | [user:Xukun-Cia](https://github.com/search?q=user%3AXukun-Cia&type=repositories) |
-| Shell 项目 | [user:Xukun-Cia language:Shell](https://github.com/search?q=user%3AXukun-Cia+language%3AShell&type=repositories) |
-| Python 项目 | [user:Xukun-Cia language:Python](https://github.com/search?q=user%3AXukun-Cia+language%3APython&type=repositories) |
-| C++ 项目 | [user:Xukun-Cia language:C++](https://github.com/search?q=user%3AXukun-Cia+language%3AC%2B%2B&type=repositories) |
-
----
-
-<sub>最后更新：2026-05</sub>
+<sub>最后更新：2026-05-20</sub>
